@@ -58,6 +58,10 @@ hr {
     margin: 6.625rem auto;
 }
 
+#header-rule-bottom {
+    margin: 8rem auto;
+}
+
 span {
     text-decoration: underline;
 }
@@ -144,7 +148,7 @@ span {
     -webkit-border-radius: 8%;
     -moz-border-radius: 8%;
     border-radius: 8px;
-    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
